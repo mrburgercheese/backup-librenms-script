@@ -16,9 +16,9 @@
 # (1) set up all the mysqldump variables
 FILE=DB_LibreNMS_`date +"%Y%m%d"`.sql
 DBSERVER=127.0.0.1
-DATABASE=libredb
-USER=libredb
-PASS=Bestari008
+DATABASE=database-name
+USER=user-database
+PASS=password
 FOLDERRRD=rrd_`date +"%Y%m%d"`
 
 # (2) in case you run this more than once a day, remove the previous version of the file
