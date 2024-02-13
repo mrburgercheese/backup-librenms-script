@@ -12,4 +12,3 @@ Rule Script
 Note : this script can send backup file automatic via ftp or scp
 
 Regrads
-hosterbyte.com
